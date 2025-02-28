@@ -23,7 +23,7 @@ nav a {
     text-align: left;
 }
 nav a:hover {
-    background-color: rgb(255, 0, 174);
+    background-color: rgb(69, 40, 0);
 }
 .content {
     margin-left: 220px;
