@@ -1,0 +1,31 @@
+/* filepath: /C:/Users/JJ/Documents/WBP/FoxHonkPage/FoxHonkPage/styles.css */
+body {
+    background-color: rgb(30, 30, 30);
+    color: rgb(255, 155, 0);
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 0;
+}
+nav {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(50, 50, 50);
+    padding-top: 20px;
+}
+nav a {
+    display: block;
+    color: rgb(255, 155, 0);
+    padding: 10px;
+    text-decoration: none;
+    text-align: left;
+}
+nav a:hover {
+    background-color: rgb(70, 70, 70);
+}
+.content {
+    margin-left: 220px;
+    padding: 20px;
+}
