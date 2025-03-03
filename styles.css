@@ -5,7 +5,7 @@ body {
     font-family: "Comic Sans MS", cursive, sans-serif;
     margin: 0;
 }
-nav {
+.navui {
     width: 200px;
     height: 100%;
     position: fixed;
@@ -14,14 +14,14 @@ nav {
     background-color: rgb(50, 50, 50);
     padding-top: 20px;
 }
-nav a {
+.navui a {
     display: block;
     color: rgb(255, 155, 0);
     padding: 10px;
     text-decoration: none;
     text-align: left;
 }
-nav a:hover {
+.navui a:hover {
     background-color: rgb(69, 40, 0);
 }
 .content {
